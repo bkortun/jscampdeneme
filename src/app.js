@@ -24,7 +24,7 @@ someFunc(pops);
 
 let category={id:1,name:"armut"}
 console.log(category.id);
-console.log(category["name"]);
+console.log(category["name"]);//=category.name
 
 let {id,name}=category;
 console.log(id);

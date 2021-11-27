@@ -1,4 +1,4 @@
-export default class User{
+export default class UserAddModule{
     constructor(id,firstName,lastName,city,age){
         this.id=id,
         this.firstName=firstName,
@@ -7,3 +7,4 @@ export default class User{
         this.age=age
     }
 }
+//refactor et
